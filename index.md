@@ -1,5 +1,6 @@
 ## Welcome to EYOC
-
+github:
+  is_project_page: false
 We are a youth run org
 
 ### Markdown
